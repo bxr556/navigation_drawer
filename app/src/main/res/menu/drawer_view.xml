@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/south_park"
+        android:icon="@drawable/ic_south_park"
+        android:title="@string/south_park" />
+    <item
+        android:id="@+id/family_guy"
+        android:icon="@drawable/ic_family_guy"
+        android:title="Family Guy" />
+    <item
+        android:id="@+id/the_simpsons"
+        android:icon="@drawable/ic_simpsons"
+        android:title="The Simpsons" />
+    <item
+        android:id="@+id/futurama"
+        android:icon="@drawable/ic_futurama"
+        android:title="Futurama" />
+</menu>
